@@ -1,0 +1,4 @@
+#Tue Dec 04 22:22:18 NZDT 2018
+base.0=H\:\\codelabs\\android-fundamentals-starter-apps-v2-master\\SimpleCalc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
